@@ -302,7 +302,7 @@ Advanced deepfake detection
 
 ⚡ Installation
 
-git clone https://github.com/your-username/rakshauid.git
+git clone https://github.com/ashishkathane599/Raksha-UID-
 cd rakshauid
 pip install -r requirements.txt
 uvicorn main:app --reload
